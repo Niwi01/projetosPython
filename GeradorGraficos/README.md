@@ -1,0 +1,2 @@
+##Gerador de gráficos
+É um programa que usa a biblioteca Matplotlib para permitir aos usuários acompanhar os dados atráves dos gráficos. Seu propósito é visualizar gastos diários em relação ao salário, mostrando tatno os gastos quanto o saldo restante em forma de gráfico.
