@@ -1,0 +1,8 @@
+#Desempenho financeiro pessoal:
+    # Permita que os usuários insiram suas despesas diárias.
+    # Mostre gráficos que ilustrem os padrões de gastos, 
+    # categorias de despesas ou orçamento mensal.
+
+# Acompanhamento de Desempenho de Estudo:
+    # Permita que os alunos insiram suas horas de estudo diárias.
+    # Crie gráficos para visualizar o tempo de estudo semanal, por disciplina, etc.
